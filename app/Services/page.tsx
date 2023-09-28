@@ -24,7 +24,7 @@ export default function Services() {
 
         </div>
         <div className="max-w-sm rounded overflow-hidden shadow-lg  bg-slate-50">
-          <img className="" src="/slice8.png" alt="Error" width="150px" />
+          <img className="" src="/slice9.png" alt="Error" width="150px" />
           <div className="px-6 py-4">
             <div className="font-bold text-xl mb-2">Web Design</div>
             <p className="text-gray-700 text-base">
@@ -36,7 +36,7 @@ export default function Services() {
 
         </div>
         <div className="max-w-sm rounded overflow-hidden shadow-lg  bg-slate-50">
-          <img className="" src="/slice8.png" alt="Error" width="150px" />
+          <img className="" src="/slice10.png" alt="Error" width="150px" />
           <div className="px-6 py-4">
             <div className="font-bold text-xl mb-2">App Design</div>
             <p className="text-gray-700 text-base">
@@ -48,7 +48,7 @@ export default function Services() {
 
         </div>
         <div className="max-w-sm rounded overflow-hidden shadow-lg  bg-slate-50">
-          <img className="" src="/slice8.png" alt="Error" width="150px" />
+          <img className="" src="/slice11.png" alt="Error" width="150px" />
           <div className="px-6 py-4">
             <div className="font-bold text-xl mb-2">Graphic Design</div>
             <p className="text-gray-700 text-base">
